@@ -1,0 +1,82 @@
+@charset "utf-8";
+
+/*!
+ * web.web.fonts.css
+ */
+
+/**
+ * ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ * NotoSans (본고딕) web fonts
+ * ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ * https://github.com/UYEONG/NotoSans-subset
+ * ------------------------------------------------------------
+ */
+@font-face {
+	font-family: 'Noto Sans';
+	font-style: normal;
+	font-weight: 100;
+	src: url(../fonts/NotoSans-Thin.eot),
+	     url(../fonts/NotoSans-Thin.eot?#iefix) format('embedded-opentype'),
+	     url(../fonts/NotoSans-Thin.woff2) format('woff2'),
+	     url(../fonts/NotoSans-Thin.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Noto Sans';
+	font-style: normal;
+	font-weight: 300;
+	src: url(../fonts/NotoSans-Light.eot),
+	     url(../fonts/NotoSans-Light.eot?#iefix) format('embedded-opentype'),
+	     url(../fonts/NotoSans-Light.woff2) format('woff2'),
+	     url(../fonts/NotoSans-Light.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Noto Sans';
+	font-style: normal;
+	font-weight: 350;
+	src: url(../fonts/NotoSans-DemiLight.eot),
+	     url(../fonts/NotoSans-DemiLight.eot?#iefix) format('embedded-opentype'),
+	     url(../fonts/NotoSans-DemiLight.woff2) format('woff2'),
+	     url(../fonts/NotoSans-DemiLight.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Noto Sans';
+	font-style: normal;
+	font-weight: 400;
+	src: url(../fonts/NotoSans-Regular.eot),
+	     url(../fonts/NotoSans-Regular.eot?#iefix) format('embedded-opentype'),
+	     url(../fonts/NotoSans-Regular.woff2) format('woff2'),
+	     url(../fonts/NotoSans-Regular.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Noto Sans';
+	font-style: normal;
+	font-weight: 500;
+	src: url(../fonts/NotoSans-Medium.eot),
+	     url(../fonts/NotoSans-Medium.eot?#iefix) format('embedded-opentype'),
+	     url(../fonts/NotoSans-Medium.woff2) format('woff2'),
+	     url(../fonts/NotoSans-Medium.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Noto Sans';
+	font-style: normal;
+	font-weight: 700;
+	src: url(../fonts/NotoSans-Bold.eot),
+	     url(../fonts/NotoSans-Bold.eot?#iefix) format('embedded-opentype'),
+	     url(../fonts/NotoSans-Bold.woff2) format('woff2'),
+	     url(../fonts/NotoSans-Bold.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Noto Sans';
+	font-style: normal;
+	font-weight: 900;
+	src: url(../fonts/NotoSans-Black.eot),
+	     url(../fonts/NotoSans-Black.eot?#iefix) format('embedded-opentype'),
+	     url(../fonts/NotoSans-Black.woff2) format('woff2'),
+	     url(../fonts/NotoSans-Black.woff) format('woff');
+}
